@@ -24,12 +24,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekvcr&show_icons=true&theme=tokyonight" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=vivekvcr&show_icons=true&theme=tokyonight](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW80d2M1NHhnZjJrZXkzMmh0ZGRhMW90aGZ5eWpzNDhsd3RoMmhrdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif)" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekvcr&theme=tokyonight" />
-</p>
 
 ---
 
