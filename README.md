@@ -24,15 +24,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=vivekvcr&show_icons=true&theme=tokyonight](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW80d2M1NHhnZjJrZXkzMmh0ZGRhMW90aGZ5eWpzNDhsd3RoMmhrdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif)" />
-</p>
-
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vivekvcr/vivekvcr/output/github-contribution-grid-snake.svg" />
+  <img class="" style="" src="https://i.giphy.com/78XCFBGOlS6keY1Bil.webp" alt="" width=" ">
 </p>
 
 ---
