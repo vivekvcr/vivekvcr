@@ -20,12 +20,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img class="" style="" src="https://i.giphy.com/78XCFBGOlS6keY1Bil.webp" alt="" width=" ">
-</p>
 
 ---
 
@@ -33,3 +27,10 @@
 - 💼 GitHub: https://github.com/vivekvcr
 
 ⭐ **Star my repos if you like my work!**
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img class="" style="" src="https://i.giphy.com/78XCFBGOlS6keY1Bil.webp" alt="" width=" ">
+</p>
